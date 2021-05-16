@@ -1,6 +1,14 @@
-#TV LG
+# Ad filter list by Disconnect
+# License: GPLv3
+
+# Block TV LG
 ngfts.lge.com
 us.ad.lgsmartad.com
 lgad.cjpowercast.com
 edgesuite.net
 us.info.lgsmartad.com
+
+# Block TV Samsung
+www.samsungotn.net
+www.samsungrm.net
+www.samsung.net/ads
